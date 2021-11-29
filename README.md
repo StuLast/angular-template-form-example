@@ -1,5 +1,9 @@
 # EmailValidator
 
+This code is just a quick example of using Angular Template Forms. Given the weight of the code required in the template to make template forms work, it makes better sense to default to the alternative Angular Reactive Forms to split the view from related logic. Still - it's handy to have an example for reference.
+
+# Angular stuff
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
 ## Development server
